@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\st310-06\\Documents\\shestakov\\pr6_TRPO\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{046277B1-BE12-4131-AF82-D5F25848476E}|WebApplication1.csproj|c:\\users\\st310-06\\documents\\shestakov\\pr6_trpo\\webapplication1\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046277B1-BE12-4131-AF82-D5F25848476E}|WebApplication1.csproj|solutionrelative:controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046277B1-BE12-4131-AF82-D5F25848476E}|WebApplication1.csproj|c:\\users\\st310-06\\documents\\shestakov\\pr6_trpo\\webapplication1\\models\\webapidatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046277B1-BE12-4131-AF82-D5F25848476E}|WebApplication1.csproj|solutionrelative:models\\webapidatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046277B1-BE12-4131-AF82-D5F25848476E}|WebApplication1.csproj|c:\\users\\st310-06\\documents\\shestakov\\pr6_trpo\\webapplication1\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046277B1-BE12-4131-AF82-D5F25848476E}|WebApplication1.csproj|solutionrelative:models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 170,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PetController.cs",
+              "DocumentMoniker": "C:\\Users\\st310-06\\Documents\\shestakov\\pr6_TRPO\\WebApplication1\\Controllers\\PetController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PetController.cs",
+              "ToolTip": "C:\\Users\\st310-06\\Documents\\shestakov\\pr6_TRPO\\WebApplication1\\Controllers\\PetController.cs",
+              "RelativeToolTip": "Controllers\\PetController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T05:49:50.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\st310-06\\Documents\\shestakov\\pr6_TRPO\\WebApplication1\\Models\\Pet.cs",
+              "RelativeDocumentMoniker": "Models\\Pet.cs",
+              "ToolTip": "C:\\Users\\st310-06\\Documents\\shestakov\\pr6_TRPO\\WebApplication1\\Models\\Pet.cs",
+              "RelativeToolTip": "Models\\Pet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T05:28:11.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApiDatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\st310-06\\Documents\\shestakov\\pr6_TRPO\\WebApplication1\\Models\\WebApiDatabaseContext.cs",
+              "RelativeDocumentMoniker": "Models\\WebApiDatabaseContext.cs",
+              "ToolTip": "C:\\Users\\st310-06\\Documents\\shestakov\\pr6_TRPO\\WebApplication1\\Models\\WebApiDatabaseContext.cs",
+              "RelativeToolTip": "Models\\WebApiDatabaseContext.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwC0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T05:22:15.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
