@@ -50,7 +50,7 @@
               "RelativeDocumentMoniker": "Controllers\\PetController.cs",
               "ToolTip": "C:\\Users\\st310-06\\Documents\\shestakov\\pr6_TRPO\\WebApplication1\\Controllers\\PetController.cs",
               "RelativeToolTip": "Controllers\\PetController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-08T05:49:50.219Z",
               "EditorCaption": ""
@@ -65,8 +65,7 @@
               "RelativeToolTip": "Models\\Pet.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-08T05:28:11.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-08T05:28:11.448Z"
             },
             {
               "$type": "Document",
@@ -78,8 +77,7 @@
               "RelativeToolTip": "Models\\WebApiDatabaseContext.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAiwC0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-08T05:22:15.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-08T05:22:15.602Z"
             }
           ]
         }

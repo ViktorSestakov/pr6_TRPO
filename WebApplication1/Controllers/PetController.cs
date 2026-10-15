@@ -11,10 +11,21 @@ namespace WebApplication1.Controllers
         static WebApiDatabaseContext DbCon = new WebApiDatabaseContext();
 
         [HttpGet]
-        public IActionResult GetAll()
+        public IActionResult GetAll(string? species, bool? adopted)
         {
-            List<Pet> petList = DbCon.Pets.ToList();
-            return Ok(petList);
+            var petList = DbCon.Pets.AsQueryable();
+
+            if (species != null)
+            {
+                petList = petList.Where(p => p.Species == species);
+            }
+
+            if (adopted != null)
+            {
+                petList = petList.Where(p => p.IsAdopted == adopted);
+            }
+
+            return Ok(petList.ToList());
         }
 
         [HttpGet("{id:int}")]
